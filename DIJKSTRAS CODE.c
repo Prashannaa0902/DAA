@@ -43,4 +43,7 @@ int main()
   		}
   	}
   	for(int i=1;i<5;i++)
-      	printf("Distance from 1 to %d is %d\n",i+1,dist[i]);
+	{
+      	        printf("Distance from 1 to %d is %d\n",i+1,dist[i]);
+	}
+}
