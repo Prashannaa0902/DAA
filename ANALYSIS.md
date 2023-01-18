@@ -16,7 +16,7 @@
  
                 KRUSKALS:
                 
-                   In the given case , kruskals wont succed in finding the shortest path with the use of minal cost. The basic idea behind kruskals is that it choose the edge with the shortest length. But the given graph contains a negative weight , it will get confused in selecting the shortest path between -5 and 1 . So kruskals algorithm wont succeed in finding the shortes path for the given graph.Also, generally Kruskals algorithm wont work for diected graph as all the nodes in the graph may or may not be reachable from a particular node ( of any choice ).
+                   In the given case , kruskals wont succed in finding the shortest path with the use of minal cost. The basic idea behind kruskals is that it chooseS the edge with the shortest length. But the given graph contains a negative weight , it will get confused in selecting the shortest path between -5 and 1 . So kruskals algorithm wont succeed in finding the shortes path for the given graph.Also, generally Kruskals algorithm wont work for diRected graph as all the nodes in the graph may or may not be reachable from a particular node ( of any choice ).
                    
                  DIJSKTRAS:
                  
